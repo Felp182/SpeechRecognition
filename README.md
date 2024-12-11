@@ -6,8 +6,8 @@ Simple speech recognition that runs offline using Sphinx
 
 ### Before Running the script:
 
--Clone the repo.
--Create your virtual enviroment (optional)
--Run poetry install
+- Clone the repo.
+- Create your virtual enviroment (optional)
+- Run poetry install
 
 
