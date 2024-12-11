@@ -4,7 +4,7 @@ Simple speech recognition that runs offline using Sphinx
 
 ## How to run
 
-### Table of Contents
+### Before Running the script:
 
 -Clone the repo.
 -Create your virtual enviroment (optional)
